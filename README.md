@@ -4,3 +4,4 @@ wo shi nv sheng
 kuaisu
 bukuaisu
 kuaisu
+git is a free software
